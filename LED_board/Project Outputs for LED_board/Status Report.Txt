@@ -1,0 +1,20 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LED_board.PrjPcb]
+   Generated File[LED_top_level.GTL]
+   Generated File[LED_top_level.GBL]
+   Generated File[LED_top_level.GTO]
+   Generated File[LED_top_level.GTS]
+   Generated File[LED_top_level.GBS]
+   Generated File[LED_top_level.GBO]
+   Generated File[LED_top_level.GM1]
+   Generated File[LED_top_level.GD1]
+   Generated File[LED_top_level.RUL]
+   Generated File[LED_top_level.EXTREP]
+   Generated File[LED_top_level.REP]
+
+
+Files Generated   : 11
+Documents Printed : 0
+
+Finished Output Generation At 11:09:01 AM On 2016-01-25

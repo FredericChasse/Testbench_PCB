@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\ironi\Documents\ETS\Maîtrise\Benchtest solaire\Benchtest_PIC32\Benchtest_PCB.PcbDoc
+RuleKind=Clearance|RuleName=Clearance IC pads|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Benchtest_PIC32.PrjPcb]
+   Generated File[Benchtest_PCB.TXT]
+   Generated File[Benchtest_PCB-RectHoles.TXT]
+   Generated File[Benchtest_PCB.LDP]
+   Generated File[Benchtest_PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:21:53 AM On 2016-01-25

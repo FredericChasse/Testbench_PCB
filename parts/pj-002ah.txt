@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"60-13102015-106669";"";
+"REFERENCE";"PJ-002AH";"";
+"TraceParts.PartTitle";"PJ-002AH - 2.0 mm Center Pin, 5.0 A, Right Angle, Through Hole, Dc Power Jack Connector, RoHS Compliant";"";
+"TraceParts.InstanceId";"60-13102015-106669CV7BUQKRM0GEF7I08BUHL52O";"";
+"DESIGN";"2.0 mm Center Pin, 5.0 A, Right Angle, Through Hole, Dc Power Jack Connector";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"CUI";"";
+"TraceParts.PartVersion";"1.0.3";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"CUI:60-13102015-106669";"";
