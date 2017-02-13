@@ -5,7 +5,7 @@ ChannelRoomNamingStyle=0
 ReleasesFolder=
 ReleaseVaultGUID=
 ReleaseVaultName=
-ChannelDesignatorFormatString=$Component_$RoomName
+ChannelDesignatorFormatString=$Component.$ChannelIndex
 ChannelRoomLevelSeperator=_
 OpenOutputs=1
 ArchiveProject=0
@@ -53,7 +53,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AWTQMLNV
 
 [Document2]
 DocumentPath=ControlBoard.SchDoc
@@ -62,7 +62,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -79,7 +79,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -90,30 +90,13 @@ GenerateClassCluster=0
 DocumentUniqueId=QEQWMUSA
 
 [Document4]
-DocumentPath=LED_Controller.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CLPNSEGH
-
-[Document5]
 DocumentPath=LED_debug.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -123,14 +106,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HVGXHXGR
 
-[Document6]
+[Document5]
 DocumentPath=PIC32MX_circuit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -140,14 +123,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SBTYTUYM
 
-[Document7]
+[Document6]
 DocumentPath=Potentiometer.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -157,14 +140,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWCGJUVD
 
-[Document8]
+[Document7]
 DocumentPath=Potentiometers.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -174,14 +157,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FMBOBGWH
 
-[Document9]
+[Document8]
 DocumentPath=Push_Button.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -191,14 +174,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGYLXVRG
 
-[Document10]
+[Document9]
 DocumentPath=Signal_Protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -208,14 +191,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RQJVAGOE
 
-[Document11]
+[Document10]
 DocumentPath=USB-UART.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=9
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -225,14 +208,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RVWTYKBJ
 
-[Document12]
+[Document11]
 DocumentPath=Vref.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=10
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -241,6 +224,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WFFYAAYK
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for ControlBoard_2_0\Design Rule Check - ControlBoard.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
