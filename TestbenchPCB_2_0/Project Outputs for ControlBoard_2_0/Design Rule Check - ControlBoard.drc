@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\ironi\Documents\ETS\Maîtrise\Benchtest solaire\Testbench_PCB\TestbenchPCB_2_0\ControlBoard.PcbDoc
 Date     : 2017-02-12
-Time     : 9:02:42 PM
+Time     : 9:59:42 PM
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
@@ -50,4 +50,4 @@ Rule Violations :0
 
 
 Violations Detected : 0
-Time Elapsed        : 00:00:04
+Time Elapsed        : 00:00:03
